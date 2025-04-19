@@ -5,4 +5,4 @@
 - - 附件資料:[辯論紀錄(後來離題了好好笑)](https://docs.google.com/spreadsheets/d/161euJffjihgIKrZRsuhH6uJum3igq4cJ5kyqXmPup2Q/edit?usp=sharing)
 - 第二次作業:[圖表的繪製與分析](https://colab.research.google.com/github/jaunty0216/ForSophomoreCourse/blob/main/%E7%AC%AC%E5%85%AD%E9%80%B1_%E8%AE%93%E6%88%91%E5%BA%B7%E5%BA%B7%E5%B0%BC%E5%80%91%E8%B2%B7%E4%BA%86%E7%94%9A%E9%BA%BC%E5%91%A2~.ipynb)
 - 第三次作業:[KMeans 聚類與 PCA 降維](https://colab.research.google.com/drive/1WtrO9DCnGV_V80m36Pw5MJ6t-T9zk0j5?usp=sharing) 
-- 第四次作業(還在趕):
+- 第四次作業:[詞組分析與繪製詞雲圖](https://colab.research.google.com/github/jaunty0216/ForSophomoreCourse/blob/main/%E7%AC%AC%E5%85%AB%E9%80%B1_%E4%BD%A0%E5%80%91%E8%AA%AA%E5%95%A5%E5%91%A2.ipynb)
