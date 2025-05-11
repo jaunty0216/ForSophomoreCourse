@@ -7,3 +7,4 @@
 - 第三次作業:[KMeans 聚類與 PCA 降維](https://colab.research.google.com/drive/1WtrO9DCnGV_V80m36Pw5MJ6t-T9zk0j5?usp=sharing) 
 - 第四次作業:[詞組分析與繪製詞雲圖](https://colab.research.google.com/github/jaunty0216/ForSophomoreCourse/blob/main/%E7%AC%AC%E5%85%AB%E9%80%B1_%E4%BD%A0%E5%80%91%E8%AA%AA%E5%95%A5%E5%91%A2.ipynb)
 - - 附件資料:[彙整記錄](https://docs.google.com/spreadsheets/d/16LGXgFCCVwqVU48-JoQzY6SbtIn3Vp6U-_kfjsg-Q1E/edit?usp=sharing)
+- 第五次作業:[地獄美食家](https://colab.research.google.com/github/jaunty0216/ForSophomoreCourse/blob/main/%E7%AC%AC%E5%8D%81%E9%80%B1_%E5%9C%B0%E7%8D%84%E7%BE%8E%E9%A3%9F%E5%AE%B6.ipynb) 
